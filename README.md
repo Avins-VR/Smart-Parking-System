@@ -44,8 +44,9 @@ This visual feedback allows users to instantly identify available spaces.
 
 ### 📚 Libraries & Tools
 - OpenCV
+- YOLO
+- SVM
 - NumPy
-- Matplotlib
 
 ---MM
 
