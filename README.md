@@ -30,8 +30,8 @@ The system processes live video or recorded footage of a parking area and determ
 
 ## 🎨 Visual Output
 
-- 🟩 **Green Box** → Occupied Parking Spot  
-- 🟥 **Red Box** → Empty Parking Spot  
+- 🟩 **Red Box** → Occupied Parking Spot  
+- 🟥 **Green Box** → Empty Parking Spot  
 
 This visual feedback allows users to instantly identify available spaces.
 
