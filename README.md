@@ -46,9 +46,8 @@ This visual feedback allows users to instantly identify available spaces.
 - OpenCV
 - NumPy
 - Matplotlib
-- cvzone (optional)
 
----
+---MM
 
 ## ⚙️ Workflow
 
